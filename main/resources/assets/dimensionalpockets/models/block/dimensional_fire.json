@@ -1,8 +1,0 @@
-{
-  "parent": "dimensionalpockets:custom/firemodel",
-  "textures": {
-    "all": "dimensionalpockets:blocks/firedimensional",
-    "particle": "dimensionalpockets:blocks/firedimensional",
-    "0": "dimensionalpockets:blocks/firedimensional"
-  }
-}
