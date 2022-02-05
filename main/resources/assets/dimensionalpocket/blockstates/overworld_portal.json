@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "dimensionalpocket:block/overworld_portal"
+    },
+    "facing=east": {
+      "model": "dimensionalpocket:block/overworld_portal",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "dimensionalpocket:block/overworld_portal",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "dimensionalpocket:block/overworld_portal",
+      "y": 270
+    }
+  }
+}

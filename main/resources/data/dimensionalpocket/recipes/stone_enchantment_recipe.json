@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345",
+    "678"
+  ],
+  "key": {
+    "1": {
+      "item": "minecraft:end_crystal"
+    },
+    "3": {
+      "item": "minecraft:diamond_block"
+    },
+    "4": {
+      "item": "dimensionalpocket:ender_stone"
+    },
+    "5": {
+      "item": "minecraft:diamond_block"
+    },
+    "6": {
+      "item": "dimensionalpocket:ender_stone"
+    },
+    "7": {
+      "item": "dimensionalpocket:ender_stone"
+    },
+    "8": {
+      "item": "dimensionalpocket:ender_stone"
+    }
+  },
+  "result": {
+    "item": "dimensionalpocket:stone_enchantingtable",
+    "count": 1
+  }
+}

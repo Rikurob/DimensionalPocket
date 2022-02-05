@@ -1,0 +1,26 @@
+modLoader="javafml"
+loaderVersion="[37,)"
+license="Academic Free License v3.0"
+
+[[mods]]
+modId="dimensionalpocket"
+version="1.0.3 - alpha"
+displayName="Dimensional Pocket"
+credits="RIkurob"
+displayURL="https://github.com/Rikurob/DimensionalPocket"
+logoFile="logo.png"
+authors="Rikurob"
+description='''
+Dimensional Pockets
+'''
+
+[[dependencies.dimensionalpocket]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.17.1]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+

@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:end_stone"
+    },
+    "1": {
+      "item": "minecraft:stone"
+    },
+    "2": {
+      "item": "minecraft:stone"
+    },
+    "3": {
+      "item": "minecraft:end_stone"
+    }
+  },
+  "result": {
+    "item": "dimensionalpocket:ender_stone",
+    "count": 1
+  }
+}
