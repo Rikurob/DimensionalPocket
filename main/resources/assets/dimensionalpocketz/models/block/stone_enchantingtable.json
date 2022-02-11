@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "dimensionalpocketz:blocks/enderstone",
+    "up": "dimensionalpocketz:blocks/stoneenchantingtabletop",
+    "north": "dimensionalpocketz:blocks/stoneenchantingtableside",
+    "east": "dimensionalpocketz:blocks/stoneenchantingtableside",
+    "south": "dimensionalpocketz:blocks/stoneenchantingtableside",
+    "west": "dimensionalpocketz:blocks/stoneenchantingtableside",
+    "particle": "dimensionalpocketz:blocks/enderstone"
+  }
+}

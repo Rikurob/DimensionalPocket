@@ -1,0 +1,8 @@
+{
+  "parent": "dimensionalpocketz:custom/portal",
+  "textures": {
+    "all": "dimensionalpocketz:blocks/dimensionalportal",
+    "particle": "dimensionalpocketz:blocks/dimensionalportal",
+    "0": "dimensionalpocketz:blocks/dimensionalportal"
+  }
+}

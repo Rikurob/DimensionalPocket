@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "dimensionalpocketz:ender_dust"
+    },
+    "1": {
+      "item": "minecraft:stone"
+    },
+    "2": {
+      "item": "dimensionalpocketz:ender_dust"
+    },
+    "3": {
+      "item": "minecraft:stone"
+    },
+    "4": {
+      "item": "dimensionalpocketz:ender_dust"
+    },
+    "5": {
+      "item": "minecraft:stone"
+    },
+    "6": {
+      "item": "dimensionalpocketz:ender_dust"
+    },
+    "7": {
+      "item": "minecraft:stone"
+    },
+    "8": {
+      "item": "dimensionalpocketz:ender_dust"
+    }
+  },
+  "result": {
+    "item": "dimensionalpocketz:ender_stone",
+    "count": 4
+  }
+}
