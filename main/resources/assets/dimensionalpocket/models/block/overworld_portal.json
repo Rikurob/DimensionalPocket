@@ -1,8 +1,0 @@
-{
-  "parent": "dimensionalpocket:custom/portal",
-  "textures": {
-    "all": "dimensionalpocket:blocks/overworldportal",
-    "particle": "dimensionalpocket:blocks/overworldportal",
-    "0": "dimensionalpocket:blocks/overworldportal"
-  }
-}
